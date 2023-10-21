@@ -5,7 +5,7 @@ Web designer and developer , A.I developer 💙✨
 ----------------------------------------------
 
 I've learn to code from 3 years , And I'm fluent in ( python - JavaScript - SQL - html - Css - React - Node JS - Bootstrap - PHP ) . 
-* I'm 17 years old . 
+* I'm 18 years old . 
 * high school student . 
 * ᴍʏ ɢᴏᴅ sᴜᴄᴄᴇssғᴜʟ ᴍᴇ 🤲🏻🙏 
 * ᴋᴀʀᴀᴛᴇ 🥋🙏 
