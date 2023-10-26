@@ -15,9 +15,9 @@ I've learn to code from 3 years , And I'm fluent in ( python - JavaScript - SQL 
 * ᴍᴀᴋᴇ ᴍʏ ᴏᴡɴ ᴘᴀʀᴇɴᴛs ʜᴀᴘᴘʏ ᴀɴᴅ ʜᴇʟᴘ ᴛʜᴇᴍ 🤲🏻❤️
 
 * 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [This Very Sophisticated Website !!!](http://porto-hr.web.app)
-* ✉️  You can contact me at [hassanrageh.236@gmail.com](mailto:hassanrageh.236@gmail.com)
-* 🚀  I'm currently working on [Space Youth Forum](http://space-youth-forum.herokuapp.com)
+* 🖥️  See my portfolio at [This Very Sophisticated Website !!!](www.hassankh.me)
+* ✉️  You can contact me at [hassanrageh.236@gmail.com](mailto:hassanrageh@hassankh.me)
+* 🚀  I'm currently working on [Space Youth Forum](http://space-youth-forum.onrender.com)
 * 🧠  I'm learning Advanced level in Python to build my simulation solar system " it's my next step "
 * 🤝  I'm open to collaborating on Space field
 * ⚡  I'm secretly astronaut .. but don't tell anyone 🤫
